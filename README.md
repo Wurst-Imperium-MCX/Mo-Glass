@@ -1,2 +1,1 @@
-# Mo-Glass
-This only exists to host Mo Glass releases, please ignore!
+![](https://img.wimods.net/github.com/Wurst-Imperium-MCX/Mo-Glass)
